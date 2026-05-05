@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1777981637834,
+  "timestamp": 1777982393115,
   "index": "https://PavelLimbo.github.io/OpenServerPWA/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "https://PavelLimbo.github.io/OpenServerPWA/favicon.ico",
         "https://PavelLimbo.github.io/OpenServerPWA/index.html",
-        "https://PavelLimbo.github.io/OpenServerPWA/main-73VJYPMS.js",
+        "https://PavelLimbo.github.io/OpenServerPWA/main-ULFW7RET.js",
         "https://PavelLimbo.github.io/OpenServerPWA/manifest.webmanifest",
         "https://PavelLimbo.github.io/OpenServerPWA/styles-5DR35MYT.css"
       ],
@@ -50,8 +50,8 @@
     "https://PavelLimbo.github.io/OpenServerPWA/icons/icon-512x512.png": "1de182f76f7329dfa8f9fcdd1fdcdd695bea6a99",
     "https://PavelLimbo.github.io/OpenServerPWA/icons/icon-72x72.png": "aa88a6096bd973be7f6d7a5489bfa6bc2463f8c4",
     "https://PavelLimbo.github.io/OpenServerPWA/icons/icon-96x96.png": "7fb8f59c30ce2ff12c700321a0b39e14b3dc8f95",
-    "https://PavelLimbo.github.io/OpenServerPWA/index.html": "dbcbfc4c54f590f18aae6268320bf32bf2e4287b",
-    "https://PavelLimbo.github.io/OpenServerPWA/main-73VJYPMS.js": "7c961f09bfd59275b30f679cc514ae2351b9c7ef",
+    "https://PavelLimbo.github.io/OpenServerPWA/index.html": "67e8f42216b948b149436407d08ed0b3b363386b",
+    "https://PavelLimbo.github.io/OpenServerPWA/main-ULFW7RET.js": "233758d49929c8758c06622f5db048a9ad9f534b",
     "https://PavelLimbo.github.io/OpenServerPWA/manifest.webmanifest": "d301be6831f880a2579fb31182a5bd3248fb9ef1",
     "https://PavelLimbo.github.io/OpenServerPWA/styles-5DR35MYT.css": "30f25e68604f1c54b9e4a27b0e8b7ddddd30ec2b"
   },
